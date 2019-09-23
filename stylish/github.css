@@ -1,0 +1,108 @@
+@-moz-document url-prefix("https://github.com/") {
+.Header {
+    background-color: #2E3440
+}
+.Header-link {
+    color: #ECEFF1
+}
+.repohead.experiment-repo-nav {
+    background-color: #3b4252
+}
+.orghead{
+    background-color: #3b4252
+}
+a {
+    color: #5e81ac
+}
+body {
+    background-color: #eceff4;
+    color: #2e3440
+}
+.reponav-item.selected {
+    background-color: #eceff4;
+    border-color: transparent;
+    color: #4c566a
+}
+.pagehead-tabs-item.selected {
+    background-color: #eceff4;
+    border-color: transparent;
+    color: #4c566a
+}
+.reponav-item {
+    color: #ECEFF1
+}
+.pagehead-tabs-item {
+    color: #ECEFF1
+}
+.pagehead {
+    border-bottom: 0px
+}
+.reponav-item .octicon{
+    color: inherit
+}
+.pagehead-tabs-item .octicon {
+    color: inherit
+}
+.topic-tag {
+    background-color: #eceff4;
+    color: #4c566a;
+    border: 1px solid #4c566a
+}
+table.files {
+    background-color: white;
+    box-shadow: rgba(184, 194, 215, 0.25) 0px 4px 6px, rgba(184, 194, 215, 0.1) 0px 5px 7px
+}
+.commit-tease {
+    background-color: #d8dee9;
+    border: 0px
+}
+.repository-lang-stats-graph {
+    border: 0px
+}
+.overall-summary {
+    border: 0px;
+    background-color: white
+}
+.repository-lang-stats-graph .language-color:not(:first-child){
+    border: 1px solid white
+}
+
+.Box {
+    background-color: white;
+    box-shadow: rgba(184, 194, 215, 0.25) 0px 4px 6px, rgba(184, 194, 215, 0.1) 0px 5px 7px;
+    border: 0px
+}
+
+.Box-header{
+    border: 0px;
+    background-color: #d8dee9
+}
+.file-wrap {
+    border: 0px;
+}
+
+.subnav-item.selected, .subnav-item.selected:focus, .subnav-item.selected:hover {
+    background-color: #5e81ac;
+    border-color: #5e81ac
+}
+.gh-header {
+    background-color: unset
+}
+.border-bottom {
+    border-bottom: unset !important
+}
+
+.graph-before-activity-overview {
+    background: white;
+    border: unset !important;
+    box-shadow: rgba(184, 194, 215, 0.25) 0px 4px 6px, rgba(184, 194, 215, 0.1) 0px 5px 7px;
+}
+
+.bg-white {
+    background-color: unset !important
+}
+
+.user-profile-nav {
+    background-color: #ECEFF1
+}
+}

@@ -1,0 +1,247 @@
+@-moz-document domain("gogoanime.io") {
+html, body{
+    background-color: #eceff4;
+    color: #4c566a;
+}
+
+a {
+    transition: none
+}
+
+#wrapper {
+    background-color: #eceff4;
+    padding: 0px
+}
+
+section.headnav{
+    background-color: #eceff4
+}
+
+.menu_top_link {
+    background-color: #eceff4
+}
+
+section.content{
+    margin: 0px
+}
+
+.main_body{
+    background-color: white;
+    box-shadow: rgba(184, 194, 215, 0.25) 0px 4px 6px, rgba(184, 194, 215, 0.1) 0px 5px 7px;
+    border: 0px;
+    border-radius: 8px
+}
+
+.anime_name{
+    background-color: #d8dee9;
+    background-image: none !important;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+nav.menu_top ul li a{
+    color: #4c566a;
+    padding: 8px;
+}
+
+nav.menu_top ul li a:hover, nav.menu_top ul li.active a{
+    color: #4c566a;
+    border-bottom: unset;
+    background-color: #e5e9f0;
+    border-radius: 8px;
+    transition: background-color 100ms ease-in-out 0s;
+}
+
+nav.menu_top ul li {
+    margin: 0 8px
+}
+
+.form .row {
+    background-color: white;
+    border-radius: 8px;
+    border: 0px;
+}
+
+.form .row input[type="text"]{
+    color: #4c566a
+}
+
+nav.menu_series ul li a {
+    color: #4c566a
+}
+
+.logo {
+    filter: grayscale(100%) invert(100%);
+}
+
+.menu_top_link {
+    display: none
+}
+
+.headnav_center {
+    display: none
+}
+
+.items > li {
+    border-radius: 8px;
+    box-shadow: rgba(184, 194, 215, 0.35) 0px 3px 6px 0px;
+    overflow: hidden
+}
+
+p.episode {
+    color: #4c566a !important
+}
+
+p.name a {
+    color: #2e3440 !important
+}
+
+.pagination ul li a:hover, .pagination ul li.selected a {
+    background-color: #e5e9f0;
+    color: #4c566a;
+    border-radius: 8px;
+}
+
+a.dub:hover, a.dub.active {
+    color: #4c566a;
+}
+
+.added_series_body ul li a {
+     color: #4c566a;
+}
+
+footer {
+    background-image: unset;
+    border-top: 1px solid #4c566a
+}
+
+.anime_name h2 {
+    text-transform: capitalize
+}
+
+.added_series_body ul li:nth-child(2n+1){
+    border-right: 1px solid #4c566a
+}
+
+.thumbnail-popular {
+    border-radius: 8px
+}
+
+#header_search_autocomplete_body {
+    background-color: white;
+    box-shadow: rgba(184, 194, 215, 0.25) 0px 4px 6px, rgba(184, 194, 215, 0.1) 0px 5px 7px;
+    border: 0px;
+    border-radius: 8px
+}
+
+.list_search_ajax a {
+    color: #4c566a;
+}
+
+.list_search_ajax a:hover {
+    color: #8fbcbb
+}
+
+nav.menu_series ul li a:hover {
+    color: #8fbcbb
+}
+
+.added_series_body ul li a:hover {
+    color: #8fbcbb
+}
+
+.added_series_body.popular ul li p a {
+    color: #8fbcbb
+}
+
+.added_series_body.popular ul li p a:hover {
+    color: #4c566a
+}
+
+.added_series_body.popular ul li p.genres a {
+    color: #4c566a
+}
+
+.added_series_body.popular ul li p.genres a:hover{
+    color: #8fbcbb
+}
+.croll img {
+    display: none
+}
+.anime_video_body_cate > div:nth-of-type(3){
+    display:none
+}
+
+h1, h2, h3, h4, h5, h6, .anime_video_body_cate span, .anime_video_body_cate, .anime_video_body_cate a, nav.menu_recent ul li a, p.time_2, .anime_video_body_episodes a {
+    color: #4c566a
+}
+.favorites_book, .download-anime, .btndownload {
+    display: none
+}
+.anime_video_body > div:nth-of-type(5){
+    display: none
+}
+
+nav.menu_recent ul li a:hover, .anime_video_body_episodes a:hover, .anime_video_body_cate a:hover {
+    color: #8fbcbb
+}
+
+.anime_muti_link ul li a {
+    color: #8fbcbb
+}
+
+.anime_muti_link ul li {
+    background-color: white !important;
+    border-bottom: 1px solid #4c566a
+}
+
+.anime_muti_link ul li:last-child {
+    border-bottom: none
+}
+.anime_muti_link ul li a:hover span, .anime_muti_link ul li a.active span, .anime_muti_link ul li a.active, .anime_muti_link ul li a:hover {
+    background-color: transparent;
+    color: #b48ead
+}
+
+.anime_muti_link ul {
+    padding: 0px;
+    border-top: none
+}
+
+.specialButton {
+    background-color: transparent;
+    box-shadow: none;
+    border-color: #8fbcbb;
+    color: #8fbcbb;
+    text-shadow: none
+}
+.specialButton a {
+    color: inherit
+}
+
+.specialButton:hover {
+    border-color: #b48ead;
+    color: #b48ead
+}
+
+ul#episode_related li a {
+    color: #8fbcbb !important;
+    background-color: transparent;
+    border: 1px solid #8fbcbb;
+    border-radius: 20px
+}
+
+ul#episode_related li a.active, ul#episode_related li a:hover {
+    color: #b48ead !important;
+    background-color: transparent;
+    border-color:#b48ead;  
+}
+
+ul#episode_related li a div.cate {
+    color: inherit
+}
+
+ul#episode_related li a div.vien {
+    background-image: none
+}
+}

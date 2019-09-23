@@ -1,0 +1,155 @@
+@-moz-document url-prefix("https://www.google.com") {
+body {
+    background: #fff
+}
+
+#appbar {
+    background: #fff
+}
+
+div.sfbg,
+div.sfbgg {
+    background: #2e3440
+}
+
+#hdtbSum {
+    background: #2e3440
+}
+
+a:link {
+    color: #5e81ac
+}
+
+cite {
+    color: #a3be8c
+}
+
+a.fl:link {
+    color: #5e81ac
+}
+a:visited {
+    color: #b48ead
+}
+a.fl:active {
+    color: #b48ead
+        
+        
+        
+}
+
+.s {
+    color: #3b4252
+}
+
+.s .st em,
+.st.s.std em {
+    color: #2e3440
+}
+
+#hdtb .hdtb-mitem a {
+    color: #eceff4
+}
+.hdtb-mn-hd {
+    color: #eceff4
+}
+#hdtb {
+    border: 0px
+}
+
+.aajZCb{
+    background: #434c5e
+}
+.RNNXgb {
+    background: #434c5e;
+    border: 1px solid #434c5e
+}
+
+.sbl1 {
+    color: #eceff4
+}
+
+.gLFyf {
+    color: #eceff4
+}
+
+.kp-blk {
+    background: #fff;
+    border: 0px;
+    box-shadow: rgba(184, 194, 215, 0.35) 0px 3px 6px 0px
+}
+
+#cnt {
+    overflow: hidden;
+}
+
+#before-appbar {
+    display: block;
+    position: relative;
+    height: 40px;
+    background: #2e3440;
+}
+
+#before-appbar:before {
+    content: "";
+    display: block;
+    position: absolute;
+    border-radius: 100%;
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    right: -25%;
+    top: 20px
+}
+
+#before-appbar:after {
+    content: "";
+    display: block;
+    position: absolute;
+    border-radius: 100%;
+    width: 100%;
+    height: 300px;
+    background-color: #2e3440;
+    left: -25%;
+    top: -240px;
+}
+#resultStats {
+    top: 10px
+}
+.minidiv .sfbg {
+    background: #2e3440
+}
+}
+
+@-moz-document url("https://www.google.com/") {
+body {
+    background: #2e3440
+}
+
+#hptl a {
+    color: #eceff4
+}
+a.gb_e{
+    color: #eceff4 !important
+}
+
+#fbar {
+    background: #2e3440;
+    border-top: 0px
+}
+
+#footer a{
+    color: #eceff4
+}
+
+.jhp input[type="submit"], .gbqfba{
+    border: 0.0625em solid rgb(76, 86, 106) !important;
+    background: #2e3440;
+    color: #eceff4
+        
+}
+.jhp input[type="submit"]:hover, .sbdd_a input:hover, .gbqfba:hover {
+    background: inherit !important;
+    border-color: #88c0d0
+}
+
+}

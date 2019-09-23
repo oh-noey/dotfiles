@@ -193,9 +193,14 @@ smart_gaps on
 
 # exec xrandr --output eDP-1 --dpi 220
 # Fix DPI Scalling on surface book 2
-exec_always xrandr --output eDP-1 --auto --scale .54x.54 --output DP-1-2 --auto --left-of eDP-1
+# exec_always xrandr --output eDP-1-1 --auto --scale .54x.54 --output DP-1-2 --auto --left-of eDP-1
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-exec_always --no-startup-id feh --bg-scale ~/Downloads/wallpaper.png
+exec_always --no-startup-id feh --bg-scale ~/Downloads/background.png
 exec --no-startup-id compton --config ~/.config/compton.conf -b
 
 bindsym $mod+Tab exec --no-startup-id rofi -show window -modi window -config ~/.config/rofi/themes/window.rasi
+
+exec --no-startup-id xrdb -merge $HOME/.Xresources
+
+bindsym Print exec gnome-screenshot -i
+bindsym $mod+Print exec gnome-screenshot -a
