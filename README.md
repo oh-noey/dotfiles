@@ -10,3 +10,4 @@
   * [Nord-visual-studio-code](https://github.com/arcticicestudio/nord-visual-studio-code)
 * Font
   * FuraCode nerd font mono retina
+* [Surface kernel patches](https://github.com/dmhacker/arch-linux-surface)
