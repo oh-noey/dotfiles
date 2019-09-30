@@ -1,6 +1,8 @@
 # dotfiles
-* i3
-* Polybar
+* Sway
+* waybar
+* mako
+* Wofi
 * Spotify
   * [Spicetify-cli](https://github.com/khanhas/spicetify-cli)
 * Firefox
@@ -11,4 +13,5 @@
   * [Nord-visual-studio-code](https://github.com/arcticicestudio/nord-visual-studio-code)
 * Font
   * FuraCode nerd font mono retina
+  * DejavuSansMono nerd font
 * [Surface kernel patches](https://github.com/dmhacker/arch-linux-surface)
