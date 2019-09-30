@@ -4,6 +4,7 @@
 * Spotify
   * [Spicetify-cli](https://github.com/khanhas/spicetify-cli)
 * Firefox
+  * [Firefox Colors](https://color.firefox.com/?theme=XQAAAALmAAAAAAAAAABBqYhm849SCiazH1KEGccwS-xNVAVO9uwwLEbknM2gAdPX262Lv2kd_VnxTRK7duNX0R-h3ODGglzrIzYStlto397HFpfdDwANc_aT3AsEPFgXC_t-Zp4uD2IDPlBb5SMMisCEWHpyHPnUwKQKv5ublmgttcSfcNWy3_7OAHC4A20JTT0kIvFoL7VKccIQEzDuOUzM7x7W5pjHb__XchAA)
   * [Stylus](https://github.com/openstyles/stylus)
     * [Reddit - Nord Naut](https://userstyles.org/styles/142227/reddit-naut-nord)
 * [VSCodium](https://github.com/VSCodium/vscodium)
